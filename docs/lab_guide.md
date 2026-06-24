@@ -11,7 +11,7 @@ Bạn cần xây dựng một research assistant có thể nhận câu hỏi dà
 
 - Không thêm agent nếu không có lý do rõ ràng.
 - Mỗi agent phải có responsibility riêng.
-- Shared state phải đủ rõ để debug.
+- Shared state phải đủ rõ để debug.V
 - Phải có trace hoặc log cho từng bước.
 - Phải benchmark, không chỉ nhìn output bằng cảm tính.
 
